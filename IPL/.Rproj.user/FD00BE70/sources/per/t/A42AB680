@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523435951918.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A42AB680",
+    "lastKnownWriteTime" : 3180141808686473843,
+    "last_content_update" : 1523435951918,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "54AE1421",
+        "caption" : "deliveries",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=deliveries&cache_key=54AE1421",
+        "displayedObservations" : 150460,
+        "environment" : "",
+        "object" : "deliveries",
+        "preview" : 0,
+        "totalObservations" : 150460,
+        "variables" : 21
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

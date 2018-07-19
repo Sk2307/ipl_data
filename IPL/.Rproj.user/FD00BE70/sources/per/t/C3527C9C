@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523435746146.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2635643510",
+    "id" : "C3527C9C",
+    "lastKnownWriteTime" : 1523442522,
+    "last_content_update" : 1523442522,
+    "path" : "~/Machine Learning A-Z Template Folder/Datasets/ipl/ipl_script.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "504,25",
+        "scrollLine" : "488",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
